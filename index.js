@@ -10,4 +10,4 @@ console.log("process.env.CI")
 console.log("value is: " + process.env.CI);
 console.log("type is: " + typeof process.env.CI);
 
-setTimeout(function(){ alert("Done!"); }, 5000);
+setTimeout(function(){ log("Done!"); }, 5000);
