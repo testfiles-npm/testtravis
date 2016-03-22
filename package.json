@@ -1,0 +1,19 @@
+{
+  "name": "testtravis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "(node index.js)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/testfiles-npm/testtravis.git"
+  },
+  "author": "Lossless GmbH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/testfiles-npm/testtravis/issues"
+  },
+  "homepage": "https://github.com/testfiles-npm/testtravis#readme"
+}
