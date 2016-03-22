@@ -6,4 +6,8 @@ console.log("process.env.TRAVIS_TAG")
 console.log("value is: " + process.env.TRAVIS_TAG);
 console.log("type is: " + typeof process.env.TRAVIS_TAG);
 
+console.log("process.env.CI")
+console.log("value is: " + process.env.CI);
+console.log("type is: " + typeof process.env.CI);
+
 setTimeout(function(){ alert("Done!"); }, 5000);
